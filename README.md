@@ -28,25 +28,11 @@ Comet 是一款先进的 AI 助手服务，由 Perplexity 公司开发。它提�
 ## 🎫 3. 邀请码/注册链接模板
 ### 邀请码格式
 ```
-邀请码：COMET2025-AI-HELPER
+邀请码：sakura1118
 有效期：2025-12-31
 使用次数：10次
 ```
 ### 注册链接模板
 ```
-注册链接：https://comet.perplexity.ai/invite/COMET2025-AI-HELPER
+注册链接：https://comet.perplexity.ai/invite/sakura1118
 ```
-### 分享文案示例
-```
-👋 您好！
-我正在使用 Comet AI 助手，体验非常棒！
-特别邀请您加入：
-🎁 邀请码：COMET2025-AI-HELPER
-🔗 注册链接：https://comet.perplexity.ai/invite/COMET2025-AI-HELPER
-⏰ 有效期至：2025-12-31
-期待与您一起探索 AI 的无限可能！
-```
----
-## ❓ 4. 常见问题与联系方式
-### 常见问题
-#### Q1: 邀请码有使用期限吗？
